@@ -1,0 +1,37 @@
+IP: 65.21.232.171:8545, Client Version: Geth/v1.14.4-unstable-473ee8fc-20240516/linux-amd64/go1.22.3, Peer Count: 300
+IP: 3.235.186.52:8545, Client Version: Geth/v1.13.14-stable-2bd6bd01/linux-amd64/go1.22.0, Peer Count: 200
+IP: 18.130.191.13:8080, Client Version: Geth/v1.14.3-stable-677afa05/linux-amd64/go1.21.0, Peer Count: 200
+IP: 18.130.191.13:8545, Client Version: Geth/v1.14.3-stable-677afa05/linux-amd64/go1.21.0, Peer Count: 200
+IP: 65.108.72.103:8545, Client Version: Geth/v1.13.14-stable-2bd6bd01/linux-amd64/go1.21.7, Peer Count: 100
+IP: 144.76.26.102:16045, Client Version: erigon/2.53.4/linux-amd64/go1.20.7, Peer Count: 66
+IP: 188.165.77.51:8545, Client Version: Nethermind/v1.25.4+20b10b35/linux-x64/dotnet8.0.2, Peer Count: 51
+IP: 34.31.41.6:8545, Client Version: Geth/v1.13.15-stable-c5ba367e/linux-amd64/go1.21.6, Peer Count: 50
+IP: 88.198.60.126:18545, Client Version: Geth/v1.13.14-stable-2bd6bd01/linux-amd64/go1.21.6, Peer Count: 50
+IP: 3.86.80.134:8742, Client Version: Geth/v1.14.4-unstable-e5f5eaeb/linux-amd64/go1.22.3, Peer Count: 50
+IP: 65.109.85.154:31238, Client Version: Geth/v1.13.14-stable-b0221387/linux-amd64/go1.21.9, Peer Count: 50
+IP: 65.109.85.154:32219, Client Version: Geth/v1.13.14-stable-b0221387/linux-amd64/go1.21.9, Peer Count: 50
+IP: 65.109.85.154:32572, Client Version: Geth/v1.13.14-stable-b0221387/linux-amd64/go1.21.9, Peer Count: 50
+IP: 172.232.180.49:8545, Client Version: Nethermind/v1.27.0-unstable+dcd06132/linux-x64/dotnet8.0.6, Peer Count: 50
+IP: 154.7.1.114:8545, Client Version: Geth/v1.13.14-stable-2bd6bd01/linux-amd64/go1.21.6, Peer Count: 50
+IP: 65.21.235.117:8545, Client Version: Geth/v1.13.14-stable-2bd6bd01/linux-amd64/go1.22.1, Peer Count: 50
+IP: 194.146.127.101:8545, Client Version: Geth/v1.13.14-stable-2bd6bd01/linux-amd64/go1.21.7, Peer Count: 50
+IP: 141.95.3.61:8545, Client Version: Geth/v1.14.0-unstable-3c26ffeb-20240313/linux-amd64/go1.21.6, Peer Count: 50
+IP: 202.61.239.89:8545, Client Version: Geth/v1.13.14-stable-2bd6bd01/linux-amd64/go1.21.6, Peer Count: 50
+IP: 135.181.181.179:8545, Client Version: Geth/v1.13.15-stable-c5ba367e/linux-amd64/go1.21.6, Peer Count: 50
+IP: 65.109.52.93:10124, Client Version: Geth/v1.13.14-stable-2bd6bd01/linux-amd64/go1.21.6, Peer Count: 50
+IP: 65.97.62.251:8545, Client Version: Nethermind/v1.26.0+0068729c/linux-x64/dotnet8.0.4, Peer Count: 50
+IP: 51.83.237.108:8545, Client Version: Nethermind/v1.26.0+0068729c/linux-x64/dotnet8.0.4, Peer Count: 50
+IP: 65.109.85.154:31521, Client Version: Geth/v1.13.14-stable-b0221387/linux-amd64/go1.21.9, Peer Count: 33
+IP: 35.209.37.240:8545, Client Version: Geth/v1.13.15-stable-c5ba367e/linux-amd64/go1.21.6, Peer Count: 16
+IP: 80.190.129.50:58545, Client Version: erigon/2.58.2/linux-amd64/go1.21.4, Peer Count: 12
+
+Peer Count Statistics:
+Peer Count: 300, Number of IPs: 1
+Peer Count: 200, Number of IPs: 3
+Peer Count: 100, Number of IPs: 1
+Peer Count: 66, Number of IPs: 1
+Peer Count: 51, Number of IPs: 1
+Peer Count: 50, Number of IPs: 16
+Peer Count: 33, Number of IPs: 1
+Peer Count: 16, Number of IPs: 1
+Peer Count: 12, Number of IPs: 1
